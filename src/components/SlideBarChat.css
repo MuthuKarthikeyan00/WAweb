@@ -1,0 +1,16 @@
+.SlideBarChat{
+    display: flex;
+    align-items: center;
+    background: transparent;
+    padding: 10px;
+    border-radius: 10px;
+    border-right: rgb(65, 62, 62) solid 1px;
+    border-bottom: rgb(65, 62, 62) solid 1px;
+    border-left: rgb(65, 62, 62) solid 3px;
+}
+.SlideBarChat__info{
+    margin-left:20px;
+}
+a{
+    text-decoration: none;
+}
